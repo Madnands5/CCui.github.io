@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="533.487" height="172.517" viewBox="0 0 533.487 172.517">
+  <g id="Group_2254" data-name="Group 2254" transform="translate(-607.757 -1653.051)">
+    <path id="Path_1381" data-name="Path 1381" d="M0,0H471.44V106.236l62.047-26.46-50.467,53.57v39.172H0Z" transform="translate(1141.244 1825.568) rotate(180)" fill="#fce689" opacity="0.718"/>
+    <text id="Rs._3_500_-" data-name="Rs. 3,500/-" transform="translate(713.571 1700.274)" fill="#2f2f2f" font-size="22" font-family="Ubuntu" letter-spacing="0.03em"><tspan x="0" y="0">Rs. 3,500/-</tspan></text>
+    <text id="Avail_between_25_Sept_-_21_Oct_" data-name="Avail between 25 Sept - 21 Oct " transform="translate(716.802 1769)" fill="#2f2f2f" font-size="22" font-family="Ubuntu" letter-spacing="0.03em"><tspan x="0" y="21">Avail between 25 Sept - 21 Oct </tspan></text>
+    <text id="Rs.2_500_-" data-name="Rs.2,500/-" transform="translate(715.802 1743.301)" fill="#2f2f2f" font-size="22" font-family="Ubuntu-Bold, Ubuntu" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Rs.2,500/-</tspan></text>
+    <line id="Line_1055" data-name="Line 1055" y1="12" x2="121" transform="translate(712.5 1687.5)" fill="none" stroke="#3b3a3a" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Discounted_price" data-name="Discounted price" transform="translate(852.802 1722.601)" fill="#2f2f2f" font-size="22" font-family="Ubuntu" letter-spacing="0.03em"><tspan x="0" y="21">Discounted price</tspan></text>
+  </g>
+</svg>

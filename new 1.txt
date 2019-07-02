@@ -1,0 +1,854 @@
+<!doctype Html>
+<html>
+<head>
+<link rel="stylesheet" href="ub.css">
+<link rel="stylesheet" href="web.css">
+<link rel="stylesheet" href="mob.css">
+<style>
+
+  
+
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="background-color:#f2f2f2;">
+<div class="main-container" style ="height:auto;width:100%;background-color:#f2f2f2;"><!--container-->
+
+<div class="intro" style="height:55px; width:100%;position:relative;top:0px;background-color:white;margin-bottom:2px;"><!--intro box-->
+	<div class="contact1" style="font-size:10px;float:left;width:50%;background-color:white;padding-top:17px;padding-bottom:5px;color:#2f2f22;">
+<img  src="img/color Overlay.png" style="margin-left:12%">
+<b style="color:#2f2f22;">
+&nbsp 
+ccdsap@codechef.com
+<img  src="img/Phone ico.png"  style="padding-left:3%">&nbsp
++91 9320060499
+</b>
+	</div>
+	<div class="login" style="float:left;height:9%;width:50%;background-color:white;padding-top:10px;">
+
+  <button class="newuser" value="log-in" style="  background-color: white;
+  border:solid #FC4111 1.5px ;
+  color: black;
+  border-radius:4px;
+ font-size:1px;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin-right: 18%;float:right;margin-top:4px;
+  cursor: pointer;">
+New User
+
+  </button>
+  
+  <button class="loginb" value="log-in" style="  background-color: white;
+  border: none;
+  color: black;
+  border-radius:17px;
+ font-size:1px;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin-right:5px;float:right;margin-top:5px;float:right;
+  cursor: pointer;">
+
+  Log-in
+
+  </button>
+  
+
+  
+
+	</div>
+</div>
+
+
+
+
+
+
+<div class="branding" style="height:90px;width:100%;background-color:white;"><!--brandings-->
+<div class="brand" style="width:40%;background-color:white;float:left;height:90px;">
+
+<img src="img/Brand.png"style="padding-top:20px;margin-left:10%;">
+</div>
+
+	<div class="nav" style="height:90px;width:50%;float:left;font-size:14px;padding-right:10px;background-color:#fff;position:relative;left:25px">
+	<ul><b><div style="margin-top:35px;float:right;margin-left:5px">
+  <li><a class="active" href="#">Home<br><div id="active" class="slider" style="color:#fc411;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">About<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Level<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Detail<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Help<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+	</div ></b></ul>
+	</div>
+</div>
+
+
+
+<div class="details" style="background-image:url('banner base white.png');height:300px;width:100%;padding-top:150px;font-family:Helvetica, Arial, sans-serif"><!--info-->
+<CENTER>
+<DIV STYLE="font-size:40px;margin-bottom:30xp;width:100%"><b>
+India's only industry-ready certification in DSA</b>
+</DIV><br>
+<DIV STYLE="font-size:25px; width:60%;text-align:left;">
+Certify yourself with Codechef's Multi-Level Assesment in Data Structures and Algorithms,and get yourself globally recognised
+</DIV>
+
+<div style="margin-top:50px;width:60%;background-color:yellow;position:relative;right:30px;">
+  <button class="button" value="log-in" style=" 
+margin-left:25px;  
+  background-color:#fc4111 ;
+  border: none;
+  color:white;
+float:left;
+ font-size:1px;
+  padding: 13px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+;margin-top:5px;
+  cursor: pointer;">
+
+Enrol now
+
+  </button>
+  </div>
+  </CENTER>
+
+</div>
+
+
+
+<br>
+
+
+
+<div class="regisinfo "  style="background-color:#2f2f2f;height:50px;width:100%;color:white;"><!--reginfo-->
+  <div class="exdate" style="width:40%;height:50px;float:left;">
+  <div style="float:right;font-size:22px;margin-top:12px;margin-left:15px;margin-right:65px;">31 March 2019
+	</div>
+	<div  style="float:right;font-size:20px;margin-top:15px;margin-left:15px;margin-right:2px;">Exam Date
+	</div>
+	</div>
+      <div class="line" style="margin-top:18px;width:1px;background-color:white;height:20px;float:left;">
+	
+  </div>
+
+
+    <div class="ldr" style="width:59%;height:50px;float:left;">
+	<div style="margin-top:12px;font-size:18px;float:left;margin-left:35px;margin-right:20px;">
+	Last Date of Registration
+	</div>
+	<div  style="margin-top:12px;font-size:22px;float:left;margin-left:15px;margin-right:65px;">18 Mar 2019
+	</div>
+  </div>
+</div>
+
+
+
+<br>
+
+<div class="DSA" style="background-color:#F4F6F8;width:100%;height:400px;padding-top:100px"><!--DSA-->
+<DIV STYLE="font-size:40px;margin-bottom:30xp;width:100%"><h4><center>
+ DSA Certification</h4>
+</center>
+</DIV>
+<br><center>
+<DIV STYLE="font-size:21px; width:60%;text-align:left;">
+This certification is an assessment of proficiency in programming using Data Structures and
+Algorithms under a proctored environment.
+
+</DIV><br>
+<DIV STYLE="font-size:21px; width:60%;text-align:left;">
+The certification can be used for a lifetime as it tests a candidate’s grasp on subjects that are very
+fundamental to the field of computer science and durable; they do not change with technological
+advancements.
+
+</DIV>
+</center>
+</div>
+
+
+<br>
+
+<div class="cource info""><!--container-->
+<center>
+<h1>Levels
+</h1>
+
+<div class="smallnav" style="width:50%;text-align:center;">
+
+	<div style="margin-top:35px;font-size:25px;padding-left:20%;">
+
+	<ul><b>
+  <li><a  href="#">Foundation <br><div id="" class="slider" style="color:#fc4111;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a class="active"href="#">Advanced<br><div id="active" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;color:#fc411"></div></a></li>
+  <li><a class="active"href="#">Expert<br><div id="active" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;color:#fc411"></div></a></li>
+  
+	</b>
+	</ul>
+
+	</div >
+
+
+</div  >
+
+
+<div style="font-size:20px;padding:30px;width:60%;text-align:left">
+This will certify that the person is fluent with the basics of algorithms and data structures
+and can implement them in code.
+
+
+
+
+<div style="freecources">
+<h4>
+<div style="width:40%;float:left;height:200px;text-align:left">
+Free Resources to Prepare
+</div>
+
+<div  style="width:60%;float:left;height:200px;">
+Get the entire syllabus, which is accompanied with
+resources on each topic with practice problems.
+<font color="#fc4111"><br>
+Syllabus & Resources
+</font>
+<br><br><br>
+Once ready, give mock to test
+<font color="#fc4111"><br>
+Mock Test
+</font>
+
+
+</div>
+</h4>
+</div>
+<div style="courceprices">
+<div style="width:40%;float:left;height:200px;">
+Course Price
+
+</div>
+
+
+<div  style="width:60%;float:left;height:300px;">
+<img src="img/group 2254.png" style="height:150px;width:400px;position:relative;right:40px;margin-bottom:50px;">
+<div style="float:bottom;height:100px;width:100%;">
+<button class="button" value="log-in" style="  
+  background-color:#fc4111 ;
+  border: none;
+  color:white;
+float:left;
+ font-size:1px;
+  padding: 13px 55px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+;margin-top:5px;
+  cursor: pointer;">
+
+Enrol now
+
+  </button>
+</div>
+
+</div>
+</center>
+</div>
+</div>
+</div>
+
+
+
+<br>
+
+<div class="testimonials" style="width:100%;background-color:#F4F6F8;padding:50px;"><!--container-->
+		<DIV STYLE="font-size:20px;margin-bottom:30xp;width:100%;text-align:center"><h1>
+		<center>
+			Testimonials</h1>
+
+
+			Lorem Ipsum is simply dummy text of the printing and typesetting industry
+			<img src="img/l.png" style="z-index:5;position:relative;top:250px;right:800px;">
+			<img src="img/r.png" style="z-index:5;position:relative;top:250px;right:-50px;">
+
+</DIV>
+<div id="wrapper" 
+style="  height: 450px;
+    width: 1202px;
+    overflow-x:scroll;
+    overflow-y:hidden; ">
+<div id="container" style="  width:3000px;position:relative;left:-550px;">
+<div class="item" 
+		style="  width:650px;height:350px; display: inline-block;opacity:0..5;
+		margin:2%;float:left;box-shadow:-2PX 2PX LIGHTGREY;opacity:0.5;
+		border:solid #EAEAE8 1px;float:left;background:
+		linear-gradient(to left,  white 80%,#9c9e9f 50%,#f6f6f6 25%,#f6f6f6 100%);">
+		
+		<div style="height:100%;width:80%;float:right;">
+		<div style="height:50%;widht:100%;float:top;margin-right:10%;text-align:left;padding-top:30px;padding-left:50px;"><p>
+		CCDSAP gave my talent and hard work the<br>
+		opportunity to interview with the top tech<br>
+		companies in India. CCDSAP gave my talent and<br>
+		hard work the opportunity to with the top tech<br>
+		companies in India.
+		</p>
+		</div>
+		<DIV style="height:40%;widht:100%;float:top;text-align:left;padding-left:50px;">
+			<div><B>Amit JHA</B><BR>
+			Software Engineer, Sharechat
+			</div>
+			<div style="height:1px;width:85%;background-color:black;margin:5px">
+			</div><i>
+			Foundation Certified<i>
+			<div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;float:right;position:relative;top:5px;right:70px;">
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:yellow;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:orange;float:left;margin:2px;">
+				</div>
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:red;float:left;margin:2px;">
+				</div>
+			</div>
+		</DIV>
+
+		</DIV>
+		<div style="height:100%;width:18%;float:left;">
+		<img src="img/x.png" style="position:relative;top:30px;left:100px;">
+		<img src="img/p1.png" style="position:relative;left:30px;top:100px;">
+
+		</div>
+
+</div>
+		<div class="item" 
+		style="  width:650px;height:350px; display: inline-block;
+		margin:2%;float:left;box-shadow:-2PX 2PX LIGHTGREY;
+		border:solid #EAEAE8 1px;float:left;background:
+		linear-gradient(to left,  white 80%,#9c9e9f 50%,#f6f6f6 25%,#f6f6f6 100%);">
+		
+		<div style="height:100%;width:80%;float:right;">
+		<div style="height:50%;widht:100%;float:top;margin-right:10%;text-align:left;padding-top:30px;padding-left:50px;"><p>
+		CCDSAP gave my talent and hard work the<br>
+		opportunity to interview with the top tech<br>
+		companies in India. CCDSAP gave my talent and<br>
+		hard work the opportunity to with the top tech<br>
+		companies in India.
+		</p>
+		</div>
+		<DIV style="height:40%;widht:100%;float:top;text-align:left;padding-left:50px;">
+			<div><B>Amit JHA</B><BR>
+			Software Engineer, Sharechat
+			</div>
+			<div style="height:1px;width:85%;background-color:black;margin:5px">
+			</div><i>
+			Foundation Certified<i>
+			<div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;float:right;position:relative;top:5px;right:70px;">
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>
+			</div>
+		</DIV>
+
+		</DIV>
+		<div style="height:100%;width:18%;float:left;">
+		<img src="img/x.png" style="position:relative;top:30px;left:150px;">
+		<img src="img/testi.png" style="border:solid black 1px;position:relative;left:55px;top:60px;">
+
+		</div>
+
+</div>
+		<div class="item" 
+		style="  width:650px;height:350px; display: inline-block;opacity:0..5;
+		margin:2%;float:left;box-shadow:-2PX 2PX LIGHTGREY;
+		border:solid #EAEAE8 1px;float:left;background:
+		linear-gradient(to left,  white 80%,#9c9e9f 50%,#f6f6f6 25%,#f6f6f6 100%);">
+		
+		<div style="height:100%;width:80%;float:right;">
+		<div style="height:50%;widht:100%;float:top;margin-right:10%;text-align:left;padding-top:30px;padding-left:50px;"><p>
+		CCDSAP gave my talent and hard work the<br>
+		opportunity to interview with the top tech<br>
+		companies in India. CCDSAP gave my talent and<br>
+		hard work the opportunity to with the top tech<br>
+		companies in India.
+		</p>
+		</div>
+		<DIV style="height:40%;widht:100%;float:top;text-align:left;padding-left:50px;">
+			<div><B>Amit JHA</B><BR>
+			Software Engineer, Sharechat
+			</div>
+			<div style="height:1px;width:85%;background-color:black;margin:5px">
+			</div><i>
+			Foundation Certified<i>
+			<div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;float:right;position:relative;top:5px;right:70px;">
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>
+			</div>
+		</DIV>
+
+		</DIV>
+		<div style="height:100%;width:18%;float:left;">
+		<img src="img/x.png" style="position:relative;top:30px;left:100px;">
+		<img src="img/p1.png" style="position:relative;left:30px;top:100px;">
+
+		</div>
+
+</div>
+		<div class="item" 
+		style="  width:650px;height:350px; display: inline-block;
+		opacity:0.5;
+		margin:2%;float:left;box-shadow:-2PX 2PX LIGHTGREY;
+		border:solid #EAEAE8 1px;float:left;background:
+		linear-gradient(to left,  white 80%,#9c9e9f 50%,#f6f6f6 25%,#f6f6f6 100%);">
+		
+		<div style="height:100%;width:80%;float:right;">
+		<div style="height:50%;widht:100%;float:top;margin-right:10%;text-align:left;padding-top:30px;padding-left:50px;"><p>
+		CCDSAP gave my talent and hard work the<br>
+		opportunity to interview with the top tech<br>
+		companies in India. CCDSAP gave my talent and<br>
+		hard work the opportunity to with the top tech<br>
+		companies in India.
+		</p>
+		</div>
+		<DIV style="height:40%;widht:100%;float:top;text-align:left;padding-left:50px;">
+			<div><B>Neha Gupta</B><BR>
+			Software Engineer, Sharechat
+			</div>
+			<div style="height:1px;width:85%;background-color:black;margin:5px">
+			</div><i>
+			Foundation Certified<i>
+			<div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;float:right;position:relative;top:5px;right:70px;">
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>  
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>
+				<div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+				</div>
+			</div>
+		</DIV>
+
+		</DIV>
+		<div style="height:100%;width:18%;float:left;">
+		<img src="img/x.png" style="position:relative;top:30px;left:100px;">
+		<img src="img/p1.png" style="position:relative;left:30px;top:100px;">
+
+		</div>
+
+</div>
+
+
+
+
+
+</div>
+</div>
+
+</div>
+
+<br>
+
+
+
+
+<div class="certifiedusers" style=";height:1040px;width:100%;background-color:white;padding-bottom:50px;"><!--certifers-->
+	<center>
+<div class="tittle" style="height:140px;width:100%;align:center;padding-top:80px">
+
+<font size="18px">Certified users
+
+</font>
+<br>
+<font size="5px">
+Lorem Ipsum is simply dummy text of the printing and typesetting industry
+</font>
+<br>
+</div>
+</center>
+<center>
+<div class="flex-container" style="width:75%;height:1100px;padding-bottom:70px; float:center;font-size:12;">
+  <div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p1.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+  Neha Gupta</b>
+  <br>
+  Software Engineer
+  <br>
+  Swiggy
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+	Advanced Certified
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:yellow;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:orange;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:red;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+  
+  
+     <div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p2.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+
+  
+  Ashok Pritam 
+</b>
+  <br>
+  Software Engineer
+  <br>
+Directi
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+	Advanced Certified
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:yellow;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:orange;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+<div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p3.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+Rohit Bansal</b>
+  <br>
+  Software Engineer
+  <br>
+Directi
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+	Advanced Certified
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:yellow;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:orange;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:red;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+  
+  
+
+  
+<div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p4.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+ Amit Chander</b>
+  <br>
+  Software Engineer
+  <br>
+Sharechat
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+	Advanced Certified
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+  
+  
+<div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p5.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+ Rohit Makhana </b>
+  <br>
+  Software Engineer
+  <br>
+ Paytm
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+Foundation Certified 
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+  
+ <div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p6.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+ Mita Roy </b>
+  <br>
+  Software Engineer
+  <br>
+Directi
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+	Advanced Certified
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:yellow;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:orange;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+  
+<div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p7.png" style="height:40%;width:55%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+Rohit Bansal</b>
+  <br>
+  Software Engineer
+  <br>
+Directi
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+	Advanced Certified
+  </div>
+  <br>
+  <div style="padding-left:40px;margin-bottom:5px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:yellow;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:red;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:red;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+  
+  
+<div class="cards" style="  width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);">
+
+  <img src="img/p8.png" style="height:40%;width:45%;border:solid black 1px;margin-top:50px;margin-right:10px;margin-bottom:20px;">
+  <div style=" text-align:left; padding-left;padding-left:40px;position:relative;z-index:2;height:11%;width:80%"><b>
+Amit Chandra </b>
+  <br>
+  Software Engineer
+  <br>
+Sharechat
+  </div>
+  <br>
+    <div style="height:1px;width:65%;background-color:black;">
+  </div><br>
+    <div  style="padding-left:40px; text-align:left;">
+Foundation Certified 
+  </div>
+  <br>
+  <div style="padding-left:40px; margin-bottom:10px;position:relative;bottom:15px;">
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:blue;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>  
+  <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+    <div  style="height:10px;width:10px;border-radius:10px;background-color:grey;float:left;margin:2px;">
+  
+  </div>
+  </div>
+
+  
+  </div>
+   
+
+</div>
+</center>
+
+
+	
+
+	
+</div>
+
+
+<br>
+
+
+<div class="followbox" style="height:302px;width:100%;background-color:white;float:bottom;"><!--follow us-->
+<div class="follow" style="margin-bottom:2px;width:100%;height:90px;background-color:#F4F6F8;float:top;padding-top:30px;">
+<center>
+Follow us
+<br><br>
+<img src="img/social.png">
+</center>
+
+</div>
+<div class="follow" style="width:100%;height:180px;background-color:#F4F6F8;float:bottom;">
+<div class="cornerimg" style="width:15%;height:100%;float:left;">
+<div>
+<img src="img/imh2.png"style="position:relative;bottom:11px;padding-left:0px;">
+</div>
+</div>
+<div class="links" style="width:50%;height:100%;float:left;">
+<div class="fnav" style="height:55%;width:100%;float:top;padding-top:55px;">
+	<ul><b>
+  <li><a class="" href="#">Home<br><div id="active" class="slider" style="color:#fc411;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">About<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Level<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Detail<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Help<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+</b></ul>
+
+
+	<ul><b>
+  <li><a class="" href="#">Practise <br><div id="" class="slider" style="display:none;color:#000;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Compete <br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Discuss <br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Collaborate <br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+  <li><a href="#">Initiatives<br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+   <li><a href="#">Community <br><div id="" class="slider" style="display:none;margin-top:3px;height:2px;background-color:#fc4111; width:18px;border-radius:10px;padding-left:3px;padding-top:2px;"></div></a></li>
+</b></ul>
+
+</div>
+</div>
+<div class="payments"style="width:30%;float:left;height:100%; padding-top:113px;">
+<img src="img/Payment Methods.png">
+</div>
+</div>
+</div>
+
+
+
+
+
+</div>
+</body>
+</html>

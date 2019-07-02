@@ -1,0 +1,108 @@
+@media screen and (min-width:601px){
+	.login{
+		float:left;height:40px;width:50%;background-color:white;margin-bottom:5px;
+	}
+	.contact1{
+
+		height:40px;font-size:10px;float:left;width:50%;background-color:white;color:#2f2f22;font-size:10px;
+	}
+	.brand{
+		
+		width:49%;background-color:white;float:left;height:45px;
+	}
+	.logo{
+		height:100%;width:50%;margin-left:10%;
+	}
+	.nav{
+		height:40px;width:50%;float:left;background-color:#fff;
+	}
+	.details{
+		width:100%;height:500px;background-image:url('img/banner base white.png');margin-top:50px;
+	}
+	.regisinfo{
+	background-color:#2f2f2f;height:50px;width:100%;color:white;
+}
+.exd{
+	width:40%;height:50px;float:left;
+}
+.31{
+float:left;font-size:22px;margin-top:12px;margin-left:15px;margin-right:35px;
+}
+.ed{
+float:left;font-size:20px;margin-top:15px;margin-left:15px;margin-right:2px;
+}
+.ldr{
+	width:59%;height:50px;float:left;
+}
+.schef{
+	position:relative;bottom:165px;float:right;
+	
+}
+.DSA{
+	width:100%;height:300px;
+}
+
+.frp{
+	width:40%;float:left;height:200px;text-align:left;
+}
+.frpc{
+	width:60%;float:left;height:200px;
+}
+.cp
+{
+	width:40%;float:left;height:200px;
+}
+.certifiedusers{
+	height:1040px;width:100%;background-color:white;padding-bottom:50px;
+}
+.flex-container{
+	width:75%;height:1100px;padding-bottom:70px; float:center;font-size:12;
+}
+.cards{
+width:20%;height:35%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);	
+}
+
+
+
+.active{
+	 color: #4fc111;
+}
+.follow{
+padding-top:30px;
+	width:100%;height:180px;background-color:#F4F6F8;float:bottom;
+}
+.cornerimg{
+	float:left;
+}
+
+.links{
+	width:50%;height:100%;float:left;
+}
+.paymanet{
+	width:30%;float:left;height:100%; padding-top:113px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+   overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.imh2{
+	display:block
+	width:15%;height:15%;float:left;
+}
+
+}

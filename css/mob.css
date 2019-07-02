@@ -1,0 +1,122 @@
+::-webkit-scrollbar { 
+		display: none; 
+	}
+	*{
+	font-family: Ubuntu;
+margin:0;
+	}
+		@media screen and (max-width:1500px)
+{
+	.contact1{
+		float:top;			padding-top:5px;			width:90%;			float:top;
+		
+	}
+	
+		.login{
+			padding-top:5px;
+		height:50px;font-size:10px;width:90%;background-color:white;color:#2f2f22;font-size:10px;
+		float:top;margin 5px;
+	}
+	.brand{
+		width:99%;background-color:white;float:left;height:90px;padding-top:10px;
+	}
+	.logo{
+		height:80%;width:90%;margin-left:10%;
+	}
+.nav{
+	
+	height:60px;width:100%;float:left;background-color:#fff;padding-top:10px;
+}
+.details{
+	width:100%;height:700px;background-image:url('img/banner base white.png');margin-top:50px;
+}
+.regisinfo{
+	background-color:#2f2f2f;height:100px;width:100%;color:white;
+}
+.exd{
+	width:90%;height:50px;float:left;
+}
+.31{
+float:right;font-size:22px;margin-top:12px;margin-left:15px;margin-right:35px;
+}
+.ed{
+float:left;font-size:20px;margin-top:15px;margin-left:15px;margin-right:2px;
+}
+.ldr{
+	width:99%;height:50px;float:left;
+}
+.schef{
+	position:relative;bottom:255px;float:right;z-index:2;
+	
+}
+	.line{
+		display:none;
+	}
+	.DSA{
+	width:100%;height:500px;padding-top:50px;padding-bottom:50px;
+}
+.frp{
+	width:100%;float:left;height:50px;text-align:left;
+}
+.frpc{
+	width:100%;float:left;height:200px;
+}
+.cp
+{
+	width:100%;float:left;height:100px;
+}
+.certifiedusers{margin:right:30px;
+	height:4240px;width:100%;background-color:white;padding-bottom:50px;
+}
+.flex-container{margin:right:30px;
+	width:75%;height:15000px;padding-bottom:70px; float:center;font-size:12;
+}
+.cards{
+width:80%;height:45%;
+  margin:2%;margin-top:0px;
+  border:solid #EAEAE8 1px;float:left;background: linear-gradient(to right,  white 55%,#9c9e9f 50%,#f6f6f6 45%,#f6f6f6 100%);	
+}
+
+
+.active{
+	  color: #fc4111;
+}
+.follow{
+	margin-bottom:2px;width:100%;height:90px;background-color:#F4F6F8;float:top;padding-top:30px;
+}
+.cornerimg{
+	float:top;
+}
+.links{
+	width:100%;height:100%;float:top;
+}
+
+.paymanet{float:top;
+	width:100%;height:100%; padding-top:333px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+   overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 200px;
+  text-decoration: none;
+}
+.imh2{
+	display:none;
+	width:15%;height:15%;float:left;
+}
+.pw{
+	position:fixed;bottom;-500px;
+}
+}
