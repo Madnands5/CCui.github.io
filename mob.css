@@ -54,17 +54,17 @@ padding:0;
 		float:left;
 	}
 	
-	ul{
-		width:100%; height:90px;background-color:white; list-style-type: none;margin: 0; padding: 0; overflow: hidden;padding-top:0px;padding-bottom:10px;
+ ul{
+		width:100%; height:30px;background-color:white; list-style-type: none;margin: 0; padding: 0; overflow: hidden;padding-top:0px;float:LEFT;padding-top:50px;
 	}
-	li{
+ li{
 		  float: left;  width:18%; margin:auto;
 	}
-	li a{
+li a{
 		display: block;  text-align: center;  
   text-decoration: none;color:black;font-size:100%;
 	}
-	.active {
+.active {
   color:#fc4111;
 }
 .indication{
@@ -223,32 +223,37 @@ margin-bottom:0px
 .follow{
 	width:100%;
 	margin-top:20px;
-	height:auto;}
+	height:auto;
+	padding:60px;
+	padding-left:0px;
+}
 
 .imh2{
 display:none;
 }
 .links{
 	width:100%;
-	height:auto;
+	height:800px;
 	padding:10%;
 }
-.fav  ul{
-	width:100;background-color:red;
+.fav{
+width:80%;	
 }
-.fav > li{
-	width:100%;float:top;
+  ul .m{
+	width:100%; height:400px; list-style-type: none;margin: 0; padding: 0; overflow: hidden;padding-top:0px;padding-bottom:10px;
 }
-.fav > li a{
-	width:100%;
+ li  .m{
+	width:100%;float:top;padding-left:10%;padding-right:%;float:LEFT;
 }
+  li a  .m{
+	width:100%;float:LEFT;
+}
+
 .payments{
 	width:100%;height:auto;
 	padding:10%;
 }
-.pw{
-	float:center;
-}
+
 .testimonials{
 	width:100;
 
@@ -264,5 +269,13 @@ width:30%;height:350px; display: inline-block;
 		border:solid #EAEAE8 1px;float:left;background:
 		linear-gradient(to left,  white 80%,#9c9e9f 50%,#f6f6f6 25%,#f6f6f6 100%);float:left;
 }
-
+.pw{
+	float:center;
+}
+.followus{
+	width:100%;height:100%;background-color:#F4F6F8;
+}
+.payments{
+	width:100%;height:90px;padding-left:20%;float:center;
+}
 }

@@ -33,6 +33,22 @@ padding:0;
 	float:right;float:right
 	cursor: pointer;float:left;
 	}
+	.Enrolnow{
+	  background-color:#fc4111 ;
+  border: none;
+  color:white;
+float:left;
+height:50px;
+width:25%;
+  padding: 1%;
+  txt-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+margin-top:50px;
+  cursor: pointer;
+  margin-bottom:0px;
+}
 	.branding{
 		margin-top:1px;height:70px;width:100%;background-color:white;padding-bottom:0%;border-top:2px;
 	}
@@ -73,4 +89,24 @@ padding:0;
 h3{
 	padding-top:5%;
 }	
+.L{
+	width:50%;height:90px;float:left;padding:0px;padding-left:7%;
+}
+.lcon{
+	widht:100%;
+}
+.up{
+	height:45px;float:left;width:100%;
+
+}
+.li{
+	float:left;padding:20px;
+}
+.Li{
+	float:left;;padding:20px;
+}
+.payments{
+	width:33%;height:90px;float:right;padding:0px;padding-right:5%;
+}
+
 }
